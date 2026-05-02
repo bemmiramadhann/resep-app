@@ -3,11 +3,11 @@
 //  KONFIGURASI DATABASE MYSQL
 //  Sesuaikan nilai berikut dengan server MySQL Anda
 // ============================================================
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'tramway.proxy.rlwy.net');
 define('DB_PORT', '44262');
 define('DB_NAME', 'railway');
 define('DB_USER', 'root');
-define('DB_PASS', 'cerXQQokcMkVmtBESZuWKKeYQCRYFJwM@tramway.proxy.rlwy.net');
+define('DB_PASS', 'cerXQQokcMkVmtBESZuWKKeYQCRYFJwM');
 define('DB_CHARSET', 'utf8mb4');
 // ============================================================
 
